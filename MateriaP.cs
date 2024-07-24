@@ -24,5 +24,12 @@ Public string GetUnidadeDeMedida()
     return UnidadeDeMedida;
 }
 
-
+Public void SetNomeMP(string NomeMP)
+{
+    thisNomeMP= NomeMP;
+}
+Public string GetNomeMP()
+{
+    return NomeMP;
+}
 }

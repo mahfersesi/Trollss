@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Aluno\\Trollss-1\\StockInspection.csproj": {}
+    "C:\\Users\\Aluno\\Trollss\\StockInspection.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Aluno\\Trollss-1\\StockInspection.csproj": {
+    "C:\\Users\\Aluno\\Trollss\\StockInspection.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Aluno\\Trollss-1\\StockInspection.csproj",
+        "projectUniqueName": "C:\\Users\\Aluno\\Trollss\\StockInspection.csproj",
         "projectName": "StockInspection",
-        "projectPath": "C:\\Users\\Aluno\\Trollss-1\\StockInspection.csproj",
+        "projectPath": "C:\\Users\\Aluno\\Trollss\\StockInspection.csproj",
         "packagesPath": "C:\\Users\\Aluno\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Aluno\\Trollss-1\\obj\\",
+        "outputPath": "C:\\Users\\Aluno\\Trollss\\obj\\",
         "projectStyle": "PackageReference",
         "crossTargeting": true,
         "configFilePaths": [

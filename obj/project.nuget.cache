@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "TtFZHsPnm1jaqboq3czhvCnYOUmVnUD2ZYg8aiI+Vzka/268H5+ga8FrE/5lujOYnHlwo8/3Q9eyBqhZOc5ZzA==",
+  "dgSpecHash": "fPmt1bmwaWgl6laonafsl9OrcTRzRXgscIrSR+6vEs/3EDLJe2g7aELJkC7hR+e//S4tKKm94ipiJQH1OudPgQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Aluno\\Trollss-1\\StockInspection.csproj",
+  "projectFilePath": "C:\\Users\\Aluno\\Trollss\\StockInspection.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Aluno\\.nuget\\packages\\googlegson\\2.10.1.4\\googlegson.2.10.1.4.nupkg.sha512",
     "C:\\Users\\Aluno\\.nuget\\packages\\microsoft.extensions.configuration\\8.0.0-rc.1.23419.4\\microsoft.extensions.configuration.8.0.0-rc.1.23419.4.nupkg.sha512",
